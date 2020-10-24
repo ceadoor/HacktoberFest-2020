@@ -25,10 +25,10 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-https://github.com/your-name
+https://github.com/your-name/HacktoberFest-2020.git
 ```
 
-where `your-name` is your GitHub username. Here you're copying the contents of the [HacktoberFest-2020](https://github.com/) repository on GitHub to your computer.
+where `your-name` is your GitHub username. Here you're copying the contents of the [HacktoberFest-2020](https://github.com/ceadoor/HacktoberFest-2020.git) repository on GitHub to your computer.
 
 Before cloning the repository you just make sure that you have changed the directory to _Desktop_ or to some other locations, To change the directory to Desktop run the following command:
 
@@ -36,7 +36,7 @@ Before cloning the repository you just make sure that you have changed the direc
 cd Desktop
 ```
 
-## Create a branch
+### Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -58,3 +58,47 @@ git checkout -b add-john-doe
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
+## Commit your changes
+
+Create a file, add your changes. See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+Now, go to the project directory and execute the command git status, you'll see there are changes.
+Add those changes to the branch you just created using the `git add` command:
+
+```
+git add .
+```
+
+Now commit those changes using the `git commit` command:
+
+```
+git commit -m "Added new <file-name>"
+```
+
+Replace `<file-name>` to your file name.
+
+For example:
+
+```
+git commit -m "Added Hello-world.c"
+```
+
+## Push changes to github
+
+Push your changes using the command `git push`:
+
+```
+git push origin <add-your-branch-name>
+```
+
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
+## Submit your changes for review
+
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+Now submit the pull request.
+Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+Now submit the pull request.
+
+# *Happy Coding*
