@@ -23,7 +23,7 @@ After cloning this repo open the project folder in a _text-editor_(vs code is pr
 └───Python
 
 ```
-All the file you code should be created inside their respective programming language folder.
+All the file you code should be created inside their respective programming language folder only.
 
 ### Create a branch
 
