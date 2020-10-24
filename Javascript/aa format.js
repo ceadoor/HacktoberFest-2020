@@ -1,7 +1,7 @@
 // Create your code using this format
 
 // Create a file with a file-name of your program code
-// For example : sumOftwoNumbers.c or factorialOfANumber.c
+// For example : sumOfTwoNumbers.js or factorialOfANumber.js
 
 // Now start hacking 
 
@@ -19,11 +19,6 @@
 // PROGRAM-NAME : Hello, World!
 // By John Doe
 // PROGRAM-CODE :
-#include <stdio.h>
-int main() {
-   // printf() displays the string inside quotation
-   printf("Hello, World!");
-   return 0;
-}
+console.log('Hello World');
 
 //Now follow the same from CONTRIBUTING.md on how create a pull request.

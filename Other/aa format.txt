@@ -3,7 +3,7 @@
  In this folder you can create any basic code programming languages other than what is mentioned.
 
  Create a file with a file-name of your program code
- For example : sumOftwoNumbers.extension or factorialOfANumber.extension
+ For example : sumOfTwoNumbers.extension or factorialOfANumber.extension
 
  Now start hacking 
 

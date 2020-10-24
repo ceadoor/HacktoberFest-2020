@@ -1,7 +1,7 @@
 // Create your code using this format
 
 // Create a file with a file-name of your program code
-// For example : sumOftwoNumbers.java or factorialOfANumber.java
+// For example : sumOfTwoNumbers.java or factorialOfANumber.java
 
 // Now start hacking 
 

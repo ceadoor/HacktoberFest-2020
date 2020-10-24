@@ -1,7 +1,7 @@
 // Create your code using this format
 
 // Create a file with a file-name of your program code
-// For example : sumOftwoNumbers.c or factorialOfANumber.c
+// For example : sumOfTwoNumbers.c or factorialOfANumber.c
 
 // Now start hacking 
 

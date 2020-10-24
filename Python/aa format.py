@@ -1,7 +1,7 @@
 #  Create your code using this format
 
 # Create a file with a file-name of your program code
-# For example : sumOftwoNumbers.c or factorialOfANumber.c
+# For example : sumOfTwoNumbers.py or factorialOfANumber.py
 
 # Now start hacking 
 

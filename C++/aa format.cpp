@@ -1,7 +1,7 @@
 // Create your code using this format
 
 // Create a file with a file-name of your program code
-// For example : sumOftwoNumbers.cpp or factorialOfANumber.cpp
+// For example : sumOfTwoNumbers.cpp or factorialOfANumber.cpp
 
 // Now start hacking 
 
