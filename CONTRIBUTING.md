@@ -25,25 +25,6 @@ After cloning this repo open the project folder in a _text-editor_(vs code is pr
 ```
 All the file you code should be created inside their respective programming language folder.
 
-### How to make necessary changes and commit those changes
-
-Make changes based on what code snippet you are adding.
-For example : You are coding a program to print 'Hello World!' in C Programming Language
-
-```c
-// PROGRAM-NAME : Print 'Hello World' !
-// By John Doe
-
-//PROGRAM-CODE :
-#include <stdio.h>
-
-int main(void)
-{
-  printf("Hello World !\n");
-  return 0; // ends the program
-}
-```
-
 ### Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
@@ -65,6 +46,25 @@ git checkout -b add-john-doe
 ```
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+
+### How to make necessary changes and commit those changes
+
+Make changes based on what code snippet you are adding.
+For example : You are coding a program to print 'Hello World!' in C Programming Language
+
+```c
+// PROGRAM-NAME : Print 'Hello World' !
+// By John Doe
+
+//PROGRAM-CODE :
+#include <stdio.h>
+
+int main(void)
+{
+  printf("Hello World !\n");
+  return 0; // ends the program
+}
+```
 
 ## Now commit these changes
 
@@ -97,11 +97,10 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 Now submit the pull request.
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
-<img style="float: right;" src="https://github.com/rubenshibu/css-components/blob/contributors/images/Create_pull_request.jpg" alt="create a pull request" />
+## Where to go from here?
 
-Now submit the pull request.
-
-<img style="float: right;" src="https://github.com/rubenshibu/css-components/blob/contributors/images/Submit_PR.jpeg" alt="submit pull request" />
+Congrats!!🥳  
+You just completed the standard fork -> clone -> edit -> pull request workflow that you'll encounter often as a contributor!
 
 ## PLEASE NOTE 
 
