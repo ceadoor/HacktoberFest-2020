@@ -1,4 +1,4 @@
-PROGRAM-NAME : Prime numbers
+// PROGRAM-NAME : Prime numbers
 // By Siddhardh.R.Nair
 // PROGRAM-CODE :
 
