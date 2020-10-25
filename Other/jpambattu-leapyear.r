@@ -1,6 +1,6 @@
- PROGRAM-NAME : Leap Year Calculation
- By Joseph Pious
- PROGRAM-CODE :
+ # PROGRAM-NAME : Leap Year Calculation
+ # By Joseph Pious
+ # PROGRAM-CODE :
  
  year = as.integer(readline(prompt="Enter a year: "))
 if((year %% 4) == 0) {
