@@ -1,3 +1,6 @@
+// PROGRAM-NAME : Finding prime or not
+// By Ajmal Nazar
+// PROGRAM-CODE :
 #include <iostream>
 using namespace std;
 
