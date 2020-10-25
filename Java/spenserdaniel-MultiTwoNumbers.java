@@ -1,15 +1,14 @@
-// PROGRAM-NAME : MultiplyTwoNumbers
+// PROGRAM-NAME : Multiply two Numbers
 // By Spenser Daniel
 // PROGRAM-CODE :
 
-class product
+class multitwo
 {
 public void main()
 {
-int a=9;
-int b=3;
+int a=5;
+int b=13;
 int prod=a*b;
-System.out.println("The Product of 2 Numbers="+prod);
+System.out.println("Product of two numbers="+prod);
 }
 }
-
