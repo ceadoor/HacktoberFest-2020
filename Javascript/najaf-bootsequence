@@ -1,0 +1,16 @@
+function bootsequence(){
+    $("#equal").addClass('border border-success  text-info animated pulse fast');
+    var divs = $( '.h-btns' );
+    var index=0;
+    var delay = setInterval( function(){
+  if ( index <= divs.length ){
+    $( divs[ index ] ).addClass( 'border border-primary  text-info animated pulse fast' );
+    index += 1;
+  }else{
+    clearInterval( delay );
+    removeAnim()
+  }
+}, 100);
+operatorAnim();
+clearAnim();
+}
