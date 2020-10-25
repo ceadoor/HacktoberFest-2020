@@ -1,3 +1,7 @@
+// PROGRAM-NAME : log emoji
+// By Laurenziello
+// PROGRAM-CODE :
+
 // Define your custom commands and emoji
 var commands = [
     [ "hansup", "🙌"],
