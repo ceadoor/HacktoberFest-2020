@@ -1,0 +1,7 @@
+# PROGRAM-NAME : Multiplication
+# By Tintu
+# PROGRAM-CODE :
+
+a=50
+b=50
+print (a*a)
