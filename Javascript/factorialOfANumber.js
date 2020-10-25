@@ -1,4 +1,4 @@
-// PROGRAM-NAME : Hello, World!
+// PROGRAM-NAME : Factor of a number
 // By Janus Jerom
 // PROGRAM-CODE :
 
