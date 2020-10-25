@@ -8,7 +8,7 @@ public void main()
 {
 int a=10;
 int b=5;
-int sum;
+int sum=a+b;
 System.out.println("Sum of two numbers="+sum);
 }
 }
