@@ -1,3 +1,7 @@
+# PROGRAM-NAME : Color Guess
+# By Tintu
+# PROGRAM-CODE :
+
 import random
 
 words = ['grey','black','red','pink','blue','peach','green','white']
