@@ -1,4 +1,4 @@
-PROGRAM-NAME : FACTORIAL
+//PROGRAM-NAME : FACTORIAL
 
 // By Siddhardh.R.Nair
 
