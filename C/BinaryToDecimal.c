@@ -1,3 +1,6 @@
+// PROGRAM-NAME : C Program To Convert a Binary Number to Decimal
+// By Karthik Ravishankar
+
 #include <math.h>
 #include <stdio.h>
 int convert(long long n);
