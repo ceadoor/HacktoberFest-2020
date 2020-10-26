@@ -1,6 +1,6 @@
-//PROGRAM NAME: Palindrome
-//BY sruthi s
-//PROGRAM CODE:# function which return reverse of a string
+# PROGRAM NAME: Palindrome
+# BY sruthi s
+# PROGRAM CODE: function which return reverse of a string
  
 
 def isPalindrome(s):
