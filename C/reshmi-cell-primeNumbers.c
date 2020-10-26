@@ -1,4 +1,4 @@
-// PROGRAM-NAME : prime numbers
+// PROGRAM-NAME : prime number
 // By Reshmi B Joseph
 // PROGRAM-CODE :
 #include <stdio.h>
@@ -27,4 +27,4 @@ int main() {
     }
 
     return 0;
-    }
+}
