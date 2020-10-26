@@ -1,5 +1,5 @@
 // PROGRAM-NAME : check leap year
-// By John Doe
+// By Ahammed Basim
 // PROGRAM-CODE :
 public class LeapYear {
 
