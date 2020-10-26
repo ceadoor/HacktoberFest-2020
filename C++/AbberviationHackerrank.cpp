@@ -1,3 +1,8 @@
+// PROGRAM-NAME : Abberviation (on www.hackerrank.com in Problem Solving Category)
+// By Abhinav Verma
+// PROGRAM-CODE : abbr
+// Link of Problem : https://www.hackerrank.com/challenges/abbr/problem
+
 #include <bits/stdc++.h>
 
 using namespace std;
