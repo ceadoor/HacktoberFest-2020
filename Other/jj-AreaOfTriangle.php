@@ -1,5 +1,5 @@
 // PROGRAM-NAME : Area Of Triangle !
-// By John Doe
+// By Jerome Joseph
 
 //PROGRAM-CODE :
     
