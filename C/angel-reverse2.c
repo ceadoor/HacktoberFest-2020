@@ -1,4 +1,4 @@
-	// PROGRAM-NAME : Reverse of an Integer
+// PROGRAM-NAME : Reverse of an Integer
 // By Angel Mariya Johnson
 // PROGRAM-CODE :
 
