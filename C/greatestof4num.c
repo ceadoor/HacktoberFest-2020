@@ -1,5 +1,6 @@
-//greatest of 4 numbers
-// by Ashil Johnson
+// PROGRAM-NAME : Greatest of 4 numbers
+// By Ashil JOhnson
+// PROGRAM-CODE :
 #include<stdio.h> 
  main() 
  { 
