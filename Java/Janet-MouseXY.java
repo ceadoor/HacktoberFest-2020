@@ -1,3 +1,8 @@
+  // PROGRAM-NAME : MouseXY
+   // By Janet S
+   // PROGRAM-CODE :
+
+
 import java.awt.*;
 import java.awt.event.*;
 public class MouseXY extends Frame implements MouseListener, MouseMotionListener
