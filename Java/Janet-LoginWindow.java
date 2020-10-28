@@ -41,7 +41,7 @@ public class myapp extends Applet
 }
  
 
-HTML CODE:
+//HTML CODE:
 
 <html>
 <applet code="myapp.class" width=300 height=300></applet>
