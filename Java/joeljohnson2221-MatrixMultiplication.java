@@ -1,5 +1,5 @@
 // PROGRAM-NAME : Matrix Multiplication
-// By John Doe
+// By  Joel Johnson
 // PROGRAM-CODE :
 
 import java.util.Scanner; 
